@@ -1,0 +1,196 @@
+@media (min-width: 300px) and (max-width: 700px) {
+.container{
+    width: 390px;
+    margin: auto;
+    padding: 10px 15px;
+}
+*{
+    margin: 0;
+}
+ .nav>ul{
+display: none;
+}
+.home{
+    flex-direction: column;
+}
+.txt{
+    width: 100%;
+}
+.img {
+    bottom:0;
+    right: 0;
+}
+.img img{
+    bottom: 0;
+    right: 0;
+    scale: 0.3;
+}
+.divtitle{
+    flex-direction: column;
+    line-height: 50px;
+}
+
+.clients-imgs{
+    margin-left: 50px;
+}
+.clients-imgs img{
+    scale: 0.9;
+}
+.features{
+    grid-template-columns: auto;
+
+
+}
+.feature{
+    text-align: center;
+}
+.feature i{
+    margin:auto ;
+}
+.impression{
+    flex-direction: column;
+    text-align: center;
+    margin: auto;
+}
+.impression .img{
+    display: none;
+}
+.description{
+    width: 100%;
+}
+.des-content .text{
+    flex-direction: column;
+    width: 100%;
+}
+.des-img{
+    display: none;
+}
+
+.des-title{
+    margin: auto;
+    width: 300px;
+    text-align: center;
+}
+.active{
+    flex-direction: column;
+    align-items: center;
+}
+.act-sec{
+    width: 300px;
+    height: 200px;
+    padding-top: 20px;
+    margin-top: 10px;
+
+
+}
+.vid-img{
+    flex-direction: column;
+}
+.vid , .image{
+    width: 90%;
+}
+
+.vid img , .image img{
+   width: 100%;
+   margin: 50px auto;
+}
+.vid h2, button , p{
+    width: 90%;
+    align-items: flex-start;
+    margin-left: 0;
+}
+.vid p{
+    width: 90%;
+    align-items: flex-start;
+    margin-left: 0;
+}
+.available{
+    width: 100%;
+}
+.available-dev{
+    width: 100%;
+    padding-right: 50px;
+}
+.plans{
+    flex-direction: column;
+}
+.plan{
+   width: 300px;
+   margin: 20px auto;
+}
+.person{
+    flex-direction: column;
+    width: 90%;
+    padding-bottom: 300px;
+    overflow: hidden;
+
+}
+
+.person-info-2{
+    width: 80%;
+    height: 800px;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 200px;
+    
+
+
+
+}
+
+.sponsor-img{
+    grid-template-columns: repeat(3, 100px);
+
+}
+.footer{
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+}
+.appie{
+    text-align: center;
+}
+.foot{
+    margin-top: 20px;
+}
+
+.btnss{
+    flex-direction: column;
+}
+.apple{
+margin-right: 45px;
+margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
